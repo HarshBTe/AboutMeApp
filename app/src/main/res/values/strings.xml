@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Harsh Dubey</string>
+    <string name="avatar">Avatar</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">My name is Harsh Dubey\nCurrently,\nI\'m am pursuing Bachlor\'s degree\nI\'m in second year\nBranch- Information Techonology\nWe are learning Kotlin course\nwhich will help students enhance\ntheir skills\nFor application development\njava and kotlin videos\nwill get released\non alternate weeks\nIn upcoming weeks\nthere would be a\nnumber of new courses\nthat will available\nIt will be advantageous for us\nto enchance our skills\nand give us everlasting happiness\n</string>
+    <string name="What_is_your_nick_name"> What is your nick name </string>
+    <string name="done">Done</string>
+    <string name="nameedit">Name</string>
+</resources>
